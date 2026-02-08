@@ -214,3 +214,15 @@ This project demonstrates a **complete credit risk modelling pipeline** includin
 ✔ Business strategy optimisation  
 
 It reflects **real-world financial analytics**, not just model training.
+
+
+
+## 👤  Author
+
+**Syafiq Firdaus**  
+Data Science | Machine Learning | Analytics  
+
+---
+
+⭐ If you found this project helpful, feel free to star the repository!
+
